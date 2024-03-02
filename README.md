@@ -12,6 +12,9 @@ A Template for Rust projects
     ex: `cargo new my_project`
 6. Start coding!
 
+Please note that the `rust_template` repository is not meant to be used as a library. It is a template for creating new Rust projects.
+All github actions will pass when the template is used as a template for a new project.
+
 ## Features
 
 - [x] CI/CD with GitHub Actions
