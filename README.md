@@ -8,7 +8,8 @@ A Template for Rust projects
 2. Fill in the details and create the repository
 3. Clone the repository to your local machine
 4. Move to the root of the repository using `cd <repository_name>`
-5. Run `cargo new <project_name> to create a new project
+5. Run `cargo new <project_name>` to create a new project in the repository. For generate a new project with `.toml` file.
+
     ex: `cargo new my_project`
 6. Start coding!
 
